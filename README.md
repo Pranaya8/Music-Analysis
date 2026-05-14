@@ -1,9 +1,11 @@
 Global Beats: Tracking the Rise of Non-English Music (2018–2025)
+
 📌 Project Overview
 
 In the modern streaming era, music has become increasingly borderless. This project analyzes a dataset of over 8,500 Spotify tracks to quantify the "Global Crossover" effect—the transition of regional genres (Latino, K-Pop, Afrobeats) from niche markets to global chart dominance.
 
 The goal of this analysis was to move beyond surface-level streaming counts and identify the underlying patterns of market penetration, listener loyalty, and song optimization that drive international success.
+
 🚀 Key Insights
 
     Market Share Explosion: Latino/Hispanic music witnessed a 300% surge in global chart representation between 2021 and 2023, establishing itself as the primary driver of non-English growth.
@@ -34,6 +36,7 @@ Description: A comparison of listener loyalty, calculated as the average number 
 3. Track Duration vs. Popularity
 
 Description: A scatter plot identifying the correlation between song length and listener engagement, revealing the optimal duration for modern hits.
+
 📁 Repository Structure
 Plaintext
 
